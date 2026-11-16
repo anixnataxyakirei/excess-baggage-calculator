@@ -50,6 +50,6 @@ flutter analyze
 - **Name:** Anis Natasya Binti Mohamad Nasir
 - **Matric number:** 2023466258
 - **Course:** CS266 Bachelor of Information Systems (Hons.) Information Systems Engineering
-- **GitHub:** [anixnataxya](https://github.com/anixnataxya)
+- **GitHub:** [anixnataxyakirei](https://github.com/anixnataxyakirei)
 
-Repository: [https://github.com/anixnataxya/excess-baggage-calculator](https://github.com/anixnataxya/excess-baggage-calculator)
+Repository: [https://github.com/anixnataxyakirei/excess-baggage-calculator](https://github.com/anixnataxyakirei/excess-baggage-calculator)

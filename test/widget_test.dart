@@ -171,7 +171,7 @@ void main() {
     );
     expect(find.text('© 2026 Excess Baggage Calculator. All Rights Reserved.'), findsOneWidget);
     expect(
-      find.text('https://github.com/anixnataxya/excess-baggage-calculator'),
+      find.text('https://github.com/anixnataxyakirei/excess-baggage-calculator'),
       findsOneWidget,
     );
 

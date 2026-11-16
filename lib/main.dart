@@ -199,7 +199,7 @@ class AboutPage extends StatelessWidget {
   const AboutPage({super.key});
 
   static final Uri _repositoryUri = Uri.parse(
-    'https://github.com/anixnataxya/excess-baggage-calculator',
+    'https://github.com/anixnataxyakirei/excess-baggage-calculator',
   );
 
   Future<void> _openRepository(BuildContext context) async {
@@ -392,7 +392,7 @@ class _RepositoryCard extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        'Planned GitHub repository',
+                        'GitHub Repository',
                         style: TextStyle(color: _navy, fontSize: 14, fontWeight: FontWeight.w700),
                       ),
                       const SizedBox(height: 5),
