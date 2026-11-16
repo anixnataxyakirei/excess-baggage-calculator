@@ -1,0 +1,28 @@
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/build/
+coverage/
+
+# Local machine configuration
+android/local.properties
+android/.gradle/
+android/.kotlin/
+
+# IDE and editor state
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Operating system and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.bak
+*~
